@@ -1,5 +1,1 @@
 # FULL_STACK-CONTENT
-
-**JavaScript content**
-Best vedios playlist for beginers->https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
-Must watch vedios->https://www.youtube.com/watch?v=8zKuNo4ay8E&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=18&t=574s 
